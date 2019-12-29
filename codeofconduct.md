@@ -27,7 +27,7 @@ Attending the regular meetings and if unable to attend, provide a convincing rea
 When making decisions, keeping in mind the whole community instead of one's self. 
 
 
-<b>Examples of unacceptable behaviour include:</<b></b>
+<b>Examples of unacceptable behaviour include:</b>
 
 The use of abusive language or imagery of any kind that promotes racism towards a particular race. 
 
