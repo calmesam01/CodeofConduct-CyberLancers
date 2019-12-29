@@ -14,32 +14,32 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 <b>Examples of encouraging behaviour that contributes to a positive environment for CyberLancers include:</b>
 
-Demonstrating empathy and kindness toward other people irrespective of their major and course.  
+1. Demonstrating empathy and kindness toward other people irrespective of their major and course.  
 
-Being polite to differing viewpoints, and experiences. 
+2. Being polite to differing viewpoints, and experiences. 
 
-Giving and embracing the useful feedback from the team members. 
+3. Giving and embracing the useful feedback from the team members. 
 
-Constantly learning from one's experience as it facilitates growth in an individual. 
+4. Constantly learning from one's experience as it facilitates growth in an individual. 
 
-Attending the regular meetings and if unable to attend, provide a convincing reason. 
+5. Attending the regular meetings and if unable to attend, provide a convincing reason. 
 
-When making decisions, keeping in mind the whole community instead of one's self. 
+6. When making decisions, keeping in mind the whole community instead of one's self. 
 
 
 <b>Examples of unacceptable behaviour include:</b>
 
-The use of abusive language or imagery of any kind that promotes racism towards a particular race. 
+1. The use of abusive language or imagery of any kind that promotes racism towards a particular race. 
 
-Attacking a particular religion or religious believes to make it look small. 
+2. Attacking a particular religion or religious believes to make it look small. 
 
-Any kind of harassment to a member while on a group meeting or a private discussion. 
+3. Any kind of harassment to a member while on a group meeting or a private discussion. 
 
-Plagiarizing someone else's work and promoting it as yours. 
+4. Plagiarizing someone else's work and promoting it as yours. 
 
-Sharing the confidential information that after a meeting with an outsider.  
+5. Sharing the confidential information that after a meeting with an outsider.  
 
-Not providing a solid reason for absence from a group meeting within 48 hours of the meet. 
+6. Not providing a solid reason for absence from a group meeting within 48 hours of the meet. 
 
  
  
