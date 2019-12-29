@@ -12,7 +12,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 <b>Our Standards</b> 
 
-Examples of encouraging behaviour that contributes to a positive environment for CyberLancers include:  
+<b>Examples of encouraging behaviour that contributes to a positive environment for CyberLancers include:</b>
 
 Demonstrating empathy and kindness toward other people irrespective of their major and course.  
 
@@ -27,7 +27,7 @@ Attending the regular meetings and if unable to attend, provide a convincing rea
 When making decisions, keeping in mind the whole community instead of one's self. 
 
 
-Examples of unacceptable behaviour include:  
+<b>Examples of unacceptable behaviour include:</<b></b>
 
 The use of abusive language or imagery of any kind that promotes racism towards a particular race. 
 
