@@ -6,9 +6,7 @@ We, CyberLancers, as members and contributors pledge to make participation in ou
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.  
 
-### Our Standards
-
-<b>Examples of encouraging behaviour that contributes to a positive environment for CyberLancers include:</b>
+### Expected behaviour:
 
 1. Demonstrating empathy and kindness toward other people irrespective of their major and course.  
 
@@ -22,7 +20,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 6. When making decisions, keeping in mind the whole community instead of one's self. 
 
-### Examples of unacceptable behaviour include:
+### Unacceptable behaviour:
 
 1. The use of abusive language or imagery of any kind that promotes racism towards a particular race. 
 
@@ -36,8 +34,16 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 6. Not providing a solid reason for absence from a group meeting within 48 hours of the meet. 
 
+### How to report:
 
-### Enforcement
+In order to report an unacceptable behavior you can do either of the following:
+1. Fill the online form at https://forms.gle/eEd8rBCPUmyvrmzM9 (your identity will be anonymous).
+
+2. Send an email to css.uwindsor.ca explaining the whole matter (you can give recommendations to the management for the matter to be resolved).
+
+3. You can also meet or message one of the members at managerial roles on slack regarding the problem.
+
+### What will happen if people break it:
 
 Instances of above-mentioned unaccepted behaviour may be reported to any of the CyberLancers board members. All complaints will be reviewed and investigated promptly and fairly. The privacy of the reporter will be respected. 
 
