@@ -1,16 +1,12 @@
-CyberLancers - Code of Conduct 
+## CyberLancers - Code of Conduct 
 
- 
-
-<b>Our Pledge</b>
+### Our Pledge
 
 We, CyberLancers, as members and contributors pledge to make participation in our community, a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.  
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.  
 
-  
-
-<b>Our Standards</b> 
+### Our Standards
 
 <b>Examples of encouraging behaviour that contributes to a positive environment for CyberLancers include:</b>
 
@@ -26,8 +22,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 6. When making decisions, keeping in mind the whole community instead of one's self. 
 
-
-<b>Examples of unacceptable behaviour include:</b>
+### Examples of unacceptable behaviour include:
 
 1. The use of abusive language or imagery of any kind that promotes racism towards a particular race. 
 
@@ -41,14 +36,12 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 6. Not providing a solid reason for absence from a group meeting within 48 hours of the meet. 
 
- 
- 
 
-<b>Enforcement</b>
+### Enforcement
 
 Instances of above-mentioned unaccepted behaviour may be reported to any of the CyberLancers board members. All complaints will be reviewed and investigated promptly and fairly. The privacy of the reporter will be respected. 
 
-Enforcement Guidelines 
+#### Enforcement Guidelines 
 
 The below-mentioned guidelines will be followed in order to action towards any violation of the Code of Conduct: 
 
