@@ -47,29 +47,27 @@ In order to report an unacceptable behavior you can do either of the following:
 
 Instances of above-mentioned unaccepted behaviour may be reported to any of the CyberLancers board members. All complaints will be reviewed and investigated promptly and fairly. The privacy of the reporter will be respected. 
 
-#### Enforcement Guidelines 
-
 The below-mentioned guidelines will be followed in order to action towards any violation of the Code of Conduct: 
 
-1. Correction 
+#### 1. Correction 
+ 
+ Community Impact: Use of inappropriate language or other behaviour deemed unprofessional or unwelcome in the community. 
+ 
+ Consequence: A private, written warning from the vice-president of the CyberLancers community, providing clarity around the nature of the violation and an explanation of why the behaviour was inappropriate. A public apology may be requested. 
 
-Community Impact: Use of inappropriate language or other behaviour deemed unprofessional or unwelcome in the community. 
-
-Consequence: A private, written warning from the vice-president of the CyberLancers community, providing clarity around the nature of the violation and an explanation of why the behaviour was inappropriate. A public apology may be requested. 
-
-2. Warning 
+#### 2. Warning 
 
 Community Impact: A violation through a single incident or series of actions. 
 
 Consequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban. 
 
-3. Temporary Ban 
+#### 3. Temporary Ban 
 
 Community Impact: A serious violation of community standards, including sustained inappropriate behaviour. 
 
 Consequence: A temporary ban or a suspension from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban. 
 
-4. Permanent Ban 
+#### 4. Permanent Ban 
 
 Community Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behaviour, harassment of an individual, or aggression toward or disparagement of classes of individuals. 
 
